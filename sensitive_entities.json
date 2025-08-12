@@ -1,0 +1,130 @@
+{
+  "5560e608-f88b-4ca5-bc43-787fb3f45584": {
+    "name": "Александр Стуров",
+    "placeholder": "ПерсАС"
+  },
+  "93a397c6-596f-4fbf-9624-1149f707b2e8": {
+    "name": "BI-Круг Громова",
+    "placeholder": "Обзор Г"
+  },
+  "2a56e46b-ef7e-4fd4-93e3-023c3f7d71de": {
+    "name": "Антон Татауров",
+    "placeholder": "ПерсАТ"
+  },
+  "de8b6107-c5aa-450f-b7df-adba6033eff2": {
+    "name": "Банком России",
+    "placeholder": "Организация"
+  },
+  "be8c2299-4019-4ef9-8b1a-52bfe31a67e4": {
+    "name": "ФСТЭК России",
+    "placeholder": "Регулятр А"
+  },
+  "194ce7b7-550f-4faa-8400-5f0543b1f2dc": {
+    "name": "Банка России",
+    "placeholder": "Организация"
+  },
+  "62ab25e4-ca16-4092-a24b-34780233c799": {
+    "name": "Data Mining",
+    "placeholder": "Технололгия"
+  },
+  "22e7a316-9410-4c94-a1b7-73cb67327716": {
+    "name": "АК «Прогноз-5»",
+    "placeholder": "Продукт П5"
+  },
+  "780f52a0-73de-441c-ad3a-21cd7fbaf783": {
+    "name": "ООО «ФОРСАЙТ»",
+    "placeholder": "МЫ"
+  },
+  "7a55011d-0fb6-4eb8-9671-01a4f5e4f867": {
+    "name": "«Форсайт. Аналитическая платформа»",
+    "placeholder": "Продукт АП"
+  },
+  "1606412f-328d-4610-ac53-f2c649ad85b5": {
+    "name": "РД СВТ",
+    "placeholder": "ПерсонаX"
+  },
+  "66d81e54-09b7-4489-9a1b-de613c5436ed": {
+    "name": "Аналитический комплекс «Прогноз-5",
+    "placeholder": "Продукт П5 (полн)"
+  },
+  "2c431e0e-0d00-4c72-8395-22930b3fb1f8": {
+    "name": "Форсайт",
+    "placeholder": "МЫ (укороченное)"
+  },
+  "4bd0e28a-c6b6-4dcf-a5c5-ccdb1ea99600": {
+    "name": "АК «Прогноз – 5»",
+    "placeholder": "Продукт П5"
+  },
+  "62c19c1a-bbf1-4e88-a4e0-79ee0c5335be": {
+    "name": "Windows Server",
+    "placeholder": "Продукт WS"
+  },
+  "297dc339-5fce-4ab8-8e16-a56d129b6f30": {
+    "name": "Enterprise BI",
+    "placeholder": "Продукт EBI"
+  },
+  "b34ad17e-b6d1-4f75-baed-a26d02e785de": {
+    "name": "aleksandr.sturov@fsight.ru",
+    "placeholder": "Email"
+  },
+  "f5e44ff3-9857-492e-b7a4-be552b1604f8": {
+    "name": "anton.tataurov@fsight.ru",
+    "placeholder": "Email"
+  },
+  "240b06e4-3518-498f-85be-6002653f0ee7": {
+    "name": "+7 (903) 960-37-84",
+    "placeholder": "Телефон"
+  },
+  "990668e3-325c-463d-83b3-ee82df93212e": {
+    "name": "+7 (912) 981-27-26",
+    "placeholder": "Телефон"
+  },
+  "c9a80357-a457-44f1-a0df-bc42cab45246": {
+    "name": "ivan@example.com",
+    "placeholder": "Email"
+  },
+  "df94b76b-834a-490f-acc1-02f4ebdeab79": {
+    "name": "Анна Петрова",
+    "placeholder": "ПерсонаX"
+  },
+  "b75de0c2-8c63-4a18-b942-7da92e542b6a": {
+    "name": "Иван Петров",
+    "placeholder": "ПерсонаX"
+  },
+  "971e2ef1-96f2-4ef0-a4a4-96a817b830b9": {
+    "name": "Разработка АК",
+    "placeholder": "ПерсонаX"
+  },
+  "c45c4f2d-e847-4a2e-b401-61de9a4cd601": {
+    "name": "Банк России",
+    "placeholder": "ПерсонаX"
+  },
+  "a5eac800-07d5-4004-891a-3f2f3605c272": {
+    "name": "Передача ПО",
+    "placeholder": "ПерсонаX"
+  },
+  "c8ba5474-ac3a-4002-ba2a-59edb12f5bcc": {
+    "name": "alexey@example.com",
+    "placeholder": "Email"
+  },
+  "aa8f0a27-c409-454c-8710-85a01a4c2223": {
+    "name": "Алексей Иванов",
+    "placeholder": "ПерсонаX"
+  },
+  "e9a45e36-be33-4f00-8199-49ce2aeac973": {
+    "name": "ivan@test.com",
+    "placeholder": "Email"
+  },
+  "51a8d175-18a5-43a6-b91c-adcfc87b09bc": {
+    "name": "АК «Прогноз–5»",
+    "placeholder": "Продукт П5"
+  },
+  "f8c08250-65ca-41e2-bc9a-3f8ee671ae7e": {
+    "name": "Аналитический комплекс «Прогноз–5»",
+    "placeholder": "Продукт П5 (полн)"
+  },
+  "ebe477cd-1a9a-4240-9e7c-d024036bc5cf": {
+    "name": "anna@test.com",
+    "placeholder": "Email"
+  }
+}
